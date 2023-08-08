@@ -1,2 +1,2 @@
 # South African Coin Recognition
- 
+ The aim of bank coin recognition is to identify the properties (features) of the depicted bank coin in a reference collection of notes. The bank coin recognition system should compute a similarity measure between coins that are invariant to sides, scale and rotations, because the bank coin has two faces, and the orientation of the coin can either be upright or up-side-down. Given all the South African bank coins (both old and new coins): (10c, 20c, 50c, R1, R2, R5), implement a robust image processing system that can classify each input bank coin image, as genuine and denomination (value of the coin) appropriately.
